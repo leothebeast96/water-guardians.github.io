@@ -1,0 +1,38 @@
+{
+"Diccionario": [
+{"Definicion":
+   [
+{ "Palabra":"Abiótico" , "Definicion":"Se dice de los lugares, medios, condiciones en los que no es posible la vida." }, 
+{ "Palabra":"Abonar" , "Definicion":"Añadir a la tierra laborable materias que aumenten su fertilidad o capacidad de rendimiento." },
+{ "Palabra":"Abono" , "Definicion":"Sustancia orgánica o inorgánica que se añade a la tierra laborable para aumentar su fertilidad o rendimiento" },
+{ "Palabra":"Acequia" , "Definicion":"Zanja o canal por el que discurren las aguas para regar las plantas y para otros fines." }, 
+{ "Palabra":"Acueducto" , "Definicion":"Construcción que, salvando un desnivel, se hace para transportar agua de un lugar a otro. No confundir con canal."},
+{ "Palabra":"Afluente" , "Definicion":"Arroyo o río secundario que desemboca o desagua en un río principal." },
+{ "Palabra":"Aforar" , "Definicion":"Medir la cantidad de agua que lleva un río, canal, acequia,....en un tiempo determinado (generalmente segundos)." },
+{ "Palabra":"Agrario, ra (adj.)" , "Definicion":"Perteneciente o relativo al cultivo de la tierra." },
+{ "Palabra":"Agrícola" , "Definicion":"Perteneciente o relativo a la agricultura o a quien la ejerce. 2) Agricultor, ra" },
+{ "Palabra":"Agricultor, ra (adj.)" , "Definicion":"Persona que labora o cultiva la tierra." },
+{ "Palabra":"Agro" , "Definicion":"Tierra de cultivo (agrícola, pecuario, forestal)" },
+{ "Palabra":"Agrología" , "Definicion":"Parte de la agronomía que estudia el suelo en sus relaciones con la vegetación." },
+{ "Palabra":"Aguacero" , "Definicion":"Lluvia repentina, abundante, impetuosa y de poca duración." },
+{ "Palabra":"Hidroponía" , "Definicion":"O agricultura hidropónica es un método utilizado para cultivar plantas usando disoluciones minerales en vez de suelo agrícola." },
+{ "Palabra":"Manto acuífero" , "Definicion":"Estrato o formación geológica permeable, compuesta de grava, arena o piedra porosa, que permite la circulación y el almacenamiento del agua subterránea por sus poros o grietas." },
+{ "Palabra":"Capa freática" , "Definicion":" Es una acumulación de agua subterránea que se encuentra a una profundidad relativamente pequeña bajo el nivel del suelo. Concretamente es un acuífero, con la diferencia de que los acuíferos pueden estar también a mayores profundidades." },
+{ "Palabra":"GIS" , "Definicion":"(Geographical Information System). Sistema de Información Geográfica que busca referenciar una base de datos con la cartografía de un territorio, ligando ambos conceptos." },
+{ "Palabra":"GitHub " , "Definicion":"Es una plataforma de desarrollo colaborativo de software para alojar proyectos utilizando el sistema de control de versiones Git." },
+{ "Palabra":"JSON" , "Definicion":"Acrónimo de JavaScript Object Notation, es un formato de texto ligero para el intercambio de datos." },
+{ "Palabra":"JavaScript " , "Definicion":"Es un lenguaje de programación interpretado, dialecto del estándar ECMAScript." },
+{ "Palabra":"Internet" , "Definicion":"Red informática de nivel mundial que utiliza la línea telefónica para transmitir la información." },
+{ "Palabra":"Base de Datos" , "Definicion":"Una base de datos es una colección de información organizada de forma que un programa de ordenador pueda seleccionar rápidamente los fragmentos de datos que necesite. " },
+{ "Palabra":"App" , "Definicion":"Una definición sobre App sería programa informático ligero (pequeño en su tamaño) descargable que permite unas funciones determinadas, normalmente diseñado para equipos móviles: celulares y tabletas." },
+{ "Palabra":"Pagina Web" , "Definicion":"Es conocida como un documento de tipo electrónico, el cual contiene información digital, la cual puede venir dada por datos visuales y/o sonoros, o una mezcla de ambos, a través de textos, imágenes, gráficos, audio o vídeos y otros tantos materiales dinámicos o estáticos." },
+{ "Palabra":"API" , "Definicion":"La interfaz de programación de aplicaciones, abreviada como API del inglés: Application Programming Interface, es un conjunto de subrutinas, funciones y procedimientos (o métodos, en la programación orientada a objetos) que ofrece cierta biblioteca para ser utilizado por otro software como una capa de abstracción." },
+{ "Palabra":"Wiki" , "Definicion":"Sistema de trabajo informático utilizado en los sitios web que permite a los usuarios modificar o crear su contenido de forma rápida y sencilla." },
+{ "Palabra":"XAMPP" , "Definicion":"Es un paquete de instalación independiente de plataforma, software libre, que consiste principalmente en el sistema de gestión de bases de datos MySQL, el servidor web Apache y los intérpretes para lenguajes de script: PHP y Perl." },
+{ "Palabra":"Geografía" , "Definicion":"Conjunto de características que conforman la realidad física y humana de una zona o de un territorio." },
+{ "Palabra":"Geolocalización " , "Definicion":"Es la capacidad para obtener la ubicación geográfica real de un objeto, como un radar, un teléfono móvil o un ordenador conectado a Internet." },
+{ "Palabra":"Crisis" , "Definicion":"Situación grave y decisiva que pone en peligro el desarrollo de un asunto o un proceso" }
+]
+}
+]
+}
